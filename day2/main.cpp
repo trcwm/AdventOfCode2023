@@ -1,4 +1,4 @@
-// Day2 part 2
+// Day2 part 1
 #include <iostream>
 #include <string>
 #include <string_view>
